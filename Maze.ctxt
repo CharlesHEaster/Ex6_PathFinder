@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=
+comment1.target=boolean[][]\ getTheMaze()
+comment2.params=y\ x
+comment2.target=boolean\ getTheMaze(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ showTheMaze()
+comment4.params=identifer
+comment4.target=int\ identMaze(java.lang.String)
+comment5.params=maz
+comment5.target=void\ setTheMaze(int)
+comment6.params=source\ destination
+comment6.target=void\ deepCopy(boolean[][],\ boolean[][])
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Position
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ pos\ here.\r\n\r\n\ @author\ (Charles\ Easter)\r\n\ @version\ (DATE)\r\n
+comment1.params=
+comment1.target=Position()
+comment2.params=ycoo\ xcoo
+comment2.target=Position(int,\ int)
+comment3.params=oldPos
+comment3.target=Position(Position)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=ex
+comment6.target=void\ setX(int)
+comment7.params=why
+comment7.target=void\ setY(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=o
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10

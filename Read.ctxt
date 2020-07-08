@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Read
+comment1.params=
+comment1.target=void\ lettersAcrossTop()
+comment2.params=id\ ma\ st\ goa
+comment2.target=boolean\ verify(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=character
+comment3.target=boolean\ isChar(int)
+comment4.params=number
+comment4.target=boolean\ isNumb(int)
+comment5.params=prom
+comment5.target=java.lang.String\ getCoord(java.lang.String)
+comment6.params=coord
+comment6.target=java.lang.String\ translate(java.lang.String)
+comment7.params=coo
+comment7.target=Position\ convert(java.lang.String)
+numComments=8
